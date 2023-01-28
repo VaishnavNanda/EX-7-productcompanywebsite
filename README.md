@@ -726,25 +726,25 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](companywebsite/static/images/output/home.jpg)
+![1](https://user-images.githubusercontent.com/118707051/215273258-47bb633a-e042-4b04-a275-d8a2962b0cab.jpg)
+
 ### Products Page:
 
-![output](companywebsite/static/images/output/prod1.jpg)
-![output](companywebsite/static/images/output/prod2.jpg)
+![2](https://user-images.githubusercontent.com/118707051/215273261-15a312a8-8433-4d46-ade3-0a53c622d048.jpg)
 
 ### People Page:
-![output](companywebsite/static/images/output/people1.jpg)
-![output](companywebsite/static/images/output/people2.jpg)
-![output](companywebsite/static/images/output/people3.jpg)
-![output](companywebsite/static/images/output/people4.jpg)
+![3](https://user-images.githubusercontent.com/118707051/215273266-159e4b96-2fdd-4fcc-9df7-f18bbbcabcba.jpg)
 
 ### Conatct us Page:
-![output](companywebsite/static/images/output/contact.jpg)
+
+![4](https://user-images.githubusercontent.com/118707051/215273268-f5606f42-6ff7-4d00-a2b7-5fec3aae0b69.jpg)
+
 ### Validation:
 HTML:
-![output](companywebsite/static/images/output/html.jpg)
+![html (1)](https://user-images.githubusercontent.com/118707051/215273271-973c77d2-a289-4230-a36f-6bc94a61a725.jpg)
+
 CSS:
-![output](companywebsite/static/images/output/css.jpg)
+![css (1)](https://user-images.githubusercontent.com/118707051/215273274-01773dda-3dab-4999-9cc2-3e0a2ca85ac3.jpg)
 
 ## Result:
 
